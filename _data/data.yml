@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Обзор карьеры
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      С детства заинтересовался IT сферой. 
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -73,18 +73,6 @@ experiences:
           финансово-экономического отдельных компаний и их инвестиционной привлекательности.
           Разрабатываю скрипты для автоматической торговли с помощью API брокеров.
           Совокупная доходность по всем тикерам за 2020/2021 составляет 51%.
-          
-
-Подробнее на БКС Экспресс:
-https://bcs-express.ru/novosti-i-analitika/fundamentalnyy-i-tehnicheskiy-analiz-v-chem-raznica-i-kogda-nuzhno-primenyat-tot-ili-inoy-metod
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
       - role: DevOps инженер
         time: 2019 - 2021
         company: Hetzner
