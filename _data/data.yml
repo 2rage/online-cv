@@ -42,7 +42,7 @@ sidebar:
           level: B2
           
 career-profile:
-    title: Профиль карьеры
+    title: Обзор карьеры
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -68,8 +68,15 @@ experiences:
         time: 2020 - по настоящее время
         company: Самозанятый
         details: |
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
+          Занимаюсь инвестиционной деятельностью как самозанятый на фондовых биржах с 2020 года,
+          отдаю своё предпочтение фундаментальному анализу компаний для исследования
+          финансово-экономического отдельных компаний и их инвестиционной привлекательности.
+          Разрабатываю скрипты для автоматической торговли с помощью API брокеров.
+          Совокупная доходность по всем тикерам за 2020/2021 составляет 51%.
+          
+
+Подробнее на БКС Экспресс:
+https://bcs-express.ru/novosti-i-analitika/fundamentalnyy-i-tehnicheskiy-analiz-v-chem-raznica-i-kogda-nuzhno-primenyat-tot-ili-inoy-metod
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
@@ -89,9 +96,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: Pawn разработчик
-        time: 2013 - 2015
-        company: Amazon, London
+      - role: Pawn/LUA разработчик
+        time: 2013 - 2017
+        company: Kuller.su
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -143,7 +150,7 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: PAWN/LUA разработка/скриптинг
         level: 85%
 
       - name: Sketch & Photoshop
