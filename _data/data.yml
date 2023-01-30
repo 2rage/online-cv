@@ -104,15 +104,15 @@ skills:
     title: Навыки &amp; Профессионализм
 
     toolset:
-      - name: DevOps и системное администрирование
-        level: 98%
-
       - name: Инвестиционная аналитика
-        level: 98%
+        level: 95%
+        
+      - name: DevOps и системное администрирование
+        level: 90%
 
-      - name: PAWN/LUA разработка/скриптинг
+      - name: PAWN/LUA разработка
         level: 85%
         
-       - name: Bash/Python 
+       - name: Bash/Python скриптинг
         level: 80%       
         
