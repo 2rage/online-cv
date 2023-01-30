@@ -123,7 +123,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Kuller.su
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -147,10 +147,10 @@ skills:
     title: Навыки &amp; Профессионализм
 
     toolset:
-      - name: Python & Django
+      - name: DevOps и системное администрирование
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Инвестиционная аналитика
         level: 98%
 
       - name: Angular
@@ -164,6 +164,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
