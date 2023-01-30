@@ -92,14 +92,10 @@ experiences:
           Впоследствии пришлось свернуть проект из-за падения популярности.    
 projects:
     title: Проекты
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Телеграм-бот для Тинькофф инвестиций
         link: "#"
-        tagline: "Проектирование и разработка приложения для удобного и структурированного представления информации о текущей ситуации на рынках ценных бумаг с помощью API Тинькофф Инвестиций. Стек технологий: Golang (Бэкенд), Telegram Bot SDK, Tinkoff Invest API, PostgreSQL (БД для хранения данных котировок пользователей)"
+        tagline: "Проектирование и разработка приложения для удобного и структурированного представления информации о текущей ситуации на рынках ценных бумаг. Стек технологий: Golang (Бэкенд), Telegram Bot SDK, Tinkoff Invest API, PostgreSQL (БД для хранения данных котировок пользователей)"
 
       - title: kuller.su
         link: "#"
