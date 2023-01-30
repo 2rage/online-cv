@@ -86,13 +86,11 @@ experiences:
         time: 2013 - 2017
         company: Kuller.su
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Работал как PAWN/LUA разработчик для многопользовательского
+          мода SA-MP. Владел своим сервером с общим онлайном в 50-100 человек.
+          Разработал инфрастуктуру взаимосвязи бэкенда MySQL c форумом на движке Invision Power Board. 
+          Впоследствии пришлось свернуть проект из-за падения популярности.
+          
 projects:
     title: Проекты
     intro: >
