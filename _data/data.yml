@@ -89,9 +89,25 @@ experiences:
           Работал как PAWN/LUA разработчик для многопользовательского
           мода SA-MP. Владел своим сервером с общим онлайном в 50-100 человек.
           Разработал инфрастуктуру взаимосвязи бэкенда MySQL c форумом на движке Invision Power Board. 
-          Впоследствии пришлось свернуть проект из-за падения популярности.
-          
+          Впоследствии пришлось свернуть проект из-за падения популярности.    
+projects:
+    title: Проекты
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Телеграм-бот для Тинькофф инвестиций
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: kuller.su
+        link: "#"
+        tagline: "Разработал файловую систему игрового сервера БД MySQL b SQLite. Разработал обвязку игрового сервера SA-MP с форумом на движке IPB"
 skills:
     title: Навыки &amp; Профессионализм
 
