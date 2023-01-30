@@ -40,19 +40,7 @@ sidebar:
 
         - idiom: Немецкий
           level: B2
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
+          
 career-profile:
     title: Профиль карьеры
     summary: |
@@ -69,21 +57,17 @@ education:
         university: Вятский государственный технический университет
         time: 2017 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Получил высшее образование по профилю "Прикладная информатика в экономике".
+          На последних курсах заинтересовался инвестиционной деятельностью, поэтому
+          решил на последнем году учёбы посвятить себя разработке приложения для 
+          инвестиционной аналитики с помощью функционального анализа котировок.
 experiences:
     title: Опыт работы
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Инвестиционный аналитик
+        time: 2020 - по настоящее время
+        company: Самозанятый
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
@@ -94,18 +78,18 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: DevOps инженер
+        time: 2019 - 2021
+        company: Hetzner
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          Разворачивал отказоустойчивые решения
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Pawn разработчик
         time: 2013 - 2015
         company: Amazon, London
         details: |
@@ -124,7 +108,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Kuller.su
-        link: "#hook"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
