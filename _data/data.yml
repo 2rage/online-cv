@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Яковлев Константин
-    tagline: Full Stack Developer
+    tagline: DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: +7(922)666-25-52
     timezone: Москва/GMT+3
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: 2rage.com
     linkedin:
     xing:
     github:
