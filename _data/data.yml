@@ -99,15 +99,11 @@ projects:
     assignments:
       - title: Телеграм-бот для Тинькофф инвестиций
         link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Проектирование и разработка приложения для удобного и структурированного представления информации о текущей ситуации на рынках ценных бумаг с помощью API Тинькофф Инвестиций. Стек технологий: Golang (Бэкенд), Telegram Bot SDK, Tinkoff Invest API, PostgreSQL (БД для хранения данных котировок пользователей)"
 
       - title: kuller.su
         link: "#"
-        tagline: "Разрабатывал свой проект игрового сервера на базе клиента San Andreas Multiplayer. Стек технологий: PAWN (Движок мода), LUA (кастомные скрипты взаимодйствия), MySQL/SQLite (БД мода), CMS IPB (Форум/Сайт сервера)"
+        tagline: "Разрабатывал свой проект игрового сервера на базе клиента San Andreas Multiplayer. Стек технологий: PAWN (Движок мода), LUA (кастомные скрипты взаимодйствия), MySQL/SQLite (БД мода), CMS IPB (Форум сервера)"
 skills:
     title: Навыки &amp; Профессионализм
 
