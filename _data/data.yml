@@ -104,15 +104,21 @@ skills:
     title: Навыки &amp; Профессионализм
 
     toolset:
-      - name: Инвестиционная аналитика
-        level: 95%
-        
-      - name: DevOps и системное администрирование
-        level: 90%
+      - name: Python & Django
+        level: 98%
 
-      - name: PAWN/LUA разработка
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
         level: 85%
-        
-       - name: Bash/Python скриптинг
-        level: 80%       
+
+      - name: Sketch & Photoshop
+        level: 60%    
         
