@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Яковлев Константин
-    tagline: Разработчик/DevOps/Инвестиционный аналитик
+    tagline: DevOps/Инвестиционный аналитик
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,12 +44,8 @@ sidebar:
 career-profile:
     title: Обзор карьеры
     summary: |
-      С детства заинтересовался IT сферой. 
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      С детства интересовался IT сферой. В школьные годы успел поработать PAWN и LUA разработчиком. Создал свой сервер на базе игровой модификации SA-MP.
+      На первых курсах университета был заинтересован в Machine Learning. Онако во время обучения решил поработать как DevOps инженер.
 education:
     title: Образование
     info:
