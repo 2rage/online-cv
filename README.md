@@ -3,7 +3,7 @@
 </a>
 
 # 2rage CV
-Available on `cv.2rage.com` or `2rage.github.io/online-cv/`
+Available on `cv.2rage.com`(https://cv.2rage.com/) or `2rage.github.io/online-cv/`
 
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
