@@ -101,9 +101,6 @@ skills:
     title: Навыки &amp; Профессионализм
 
     toolset:
-      - name: Инвестиционный анализ
-        level: 95%
-        
       - name: Ansible & Docker
         level: 90%
 
