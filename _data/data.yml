@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Яковлев Константин
-    tagline: DevOps/Python Developer
+    tagline: Python Developer/DevOps
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -100,11 +100,11 @@ skills:
     title: Навыки &amp; Профессионализм
 
     toolset:
-      - name: Ansible & Docker
+      - name: Python
         level: 90%
 
-      - name: Python & Bash
+      - name: Flask & SQLAlchemy
         level: 85%
 
-      - name: PAWN & LUA
+      - name: RestfulAPI
         level: 80%
