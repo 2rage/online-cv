@@ -16,8 +16,8 @@ sidebar:
     phone: +7(922)666-25-52
     timezone: Москва/GMT+3
     citizenship:
-    website: 2rage.com (In dev)
-    linkedin: 
+    website: 2rage.com
+    linkedin: 2rage
     xing:
     github: 2rage
     telegram: the2rage # add your nickname without '@' sign
@@ -39,7 +39,7 @@ sidebar:
           level: B2
 
         - idiom: Немецкий
-          level: B1
+          level: B2
           
 career-profile:
     title: Обзор карьеры
@@ -66,7 +66,7 @@ experiences:
     info:
       - role: Системный администратор / DevOps
         time: 2020 - 2022
-        company: Hetzner до 2022 / Самозанятый по н.в.
+        company: Hetzner
         details: | 
           Опыт развёртывания компонентов приложений (веб-серверов, API-сервисов, баз данных) на облачной платформе Hetzner Cloud.
           Занимался настройкой непрерывной интеграции и стандартизацией упаковки для поставки окружений с непостоянной нагрузкой.
@@ -82,13 +82,14 @@ experiences:
 projects:
     title: Проекты
     assignments:
+      - title: kuller.su
+        link: "https://github.com/2rage/kuller_su"
+        tagline: "Инициировал и руководил разработкой собственного игрового сервера, основанного на клиенте San Andreas Multiplayer. Применяемые технологии включали PAWN и SAMP API (для движка мода), MySQL (для хранения статистики игроков). Внедрил форум для сервера с помощью CMS Invision Power Board, обеспечивая удобное взаимодействие и обмен информацией для игрового сообщества."
+
       - title: Python Телеграм-бот для Тинькофф инвестиций
         link: "https://github.com/2rage/VKR"
-        tagline: "Проектировал и разрабывал приложение для удобного и структурированного представления информации о текущей ситуации на рынках ценных бумаг. Стек технологий: Flask (Бэкенд), Telegram Bot SDK, Tinkoff Invest API, PostgreSQL (БД для хранения данных котировок пользователей)"
+        tagline: "Проектировал и разрабывал приложение для удобного и структурированного представления информации о текущей ситуации на рынках ценных бумаг. Стек технологий: Flask, Telegram Bot SDK, Tinkoff Invest API, PostgreSQL (БД для хранения данных котировок пользователей)"
 
-      - title: kuller.su
-        link: "https://github.com/2rage/KulleR.su"
-        tagline: "Инициировал и руководил разработкой собственного игрового сервера, основанного на клиенте San Andreas Multiplayer. Применяемые технологии включали PAWN (для движка мода), MySQL (для управления базой данных мода). Внедрил форум для сервера с помощью CMS Invision Power Board, обеспечивая удобное взаимодействие и обмен информацией для игрового сообщества."
 skills:
     title: Навыки &amp; Профессионализм
 
